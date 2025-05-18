@@ -1,0 +1,14 @@
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\bin\Debug\net8.0\Практика8.exe
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\bin\Debug\net8.0\Практика8.deps.json
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\bin\Debug\net8.0\Практика8.runtimeconfig.json
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\bin\Debug\net8.0\Практика8.dll
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\bin\Debug\net8.0\Практика8.pdb
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\Практика8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\Практика8.AssemblyInfoInputs.cache
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\Практика8.AssemblyInfo.cs
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\Практика8.csproj.CoreCompileInputs.cache
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\Практика8.dll
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\refint\Практика8.dll
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\Практика8.pdb
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\Практика8.genruntimeconfig.cache
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практика8\Практика8\obj\Debug\net8.0\ref\Практика8.dll

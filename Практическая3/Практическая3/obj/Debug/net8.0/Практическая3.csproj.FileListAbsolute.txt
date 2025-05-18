@@ -1,0 +1,14 @@
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\Практическая3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\Практическая3.AssemblyInfoInputs.cache
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\Практическая3.AssemblyInfo.cs
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\Практическая3.csproj.CoreCompileInputs.cache
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\bin\Debug\net8.0\Практическая3.exe
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\bin\Debug\net8.0\Практическая3.deps.json
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\bin\Debug\net8.0\Практическая3.runtimeconfig.json
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\bin\Debug\net8.0\Практическая3.dll
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\bin\Debug\net8.0\Практическая3.pdb
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\Практическая3.dll
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\refint\Практическая3.dll
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\Практическая3.pdb
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\Практическая3.genruntimeconfig.cache
+C:\Users\Dreit\Desktop\Практические работы Сагал\Практическая3\Практическая3\obj\Debug\net8.0\ref\Практическая3.dll
